@@ -10,4 +10,4 @@ function checkPrime(n){
     else alert(`Number ${n} is not prime number`);
 }
 
-check(enterNum);
+checkPrime(enterNum);
